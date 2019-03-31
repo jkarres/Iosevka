@@ -4,6 +4,14 @@ Coders’ typeface, built from code.
 
 ![](https://raw.githubusercontent.com/be5invis/Iosevka/master/images/preview-all.png)
 
+## Jeffrey's Notes
+To build, first install miscellaneous dependencies (which I forget, but maybe find a makepkg somewhere?) and then
+```
+npm install
+npm run build -- ttf::iosevka-custom
+```
+I'm checking in the output in dist/iosevka-custom/ttf.
+
 ## Installation
 
 Quit your editor/program. Unzip and open the folder.

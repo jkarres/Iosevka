@@ -29,12 +29,10 @@ node_modules
 .vscode
 
 # Special
-*.ttf
 *.7z
 test/
 preview/
 build/
-dist/
 ref/
 pages/
 releases/
@@ -61,5 +59,4 @@ glyphs/*.js
 
 package-lock.json
 private.toml
-private-build-plans.toml
 private.mk
